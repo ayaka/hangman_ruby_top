@@ -6,7 +6,6 @@ class Board
   end
 
   def show_status
-
     puts "\n\t" + letters.join("\s")
     puts ''
   end
